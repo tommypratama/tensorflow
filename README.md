@@ -12,5 +12,6 @@ TensorFlow adalah perpustakaan machine learning sumber terbuka untuk penelitian 
 
 * https://www.tensorflow.org/tutorials
 * https://classroom.udacity.com/courses/ud187
+* https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53 (CNN)
 
 
